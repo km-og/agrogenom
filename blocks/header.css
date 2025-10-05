@@ -2,7 +2,7 @@
   max-width: 1140px;
   width: 90%;
   margin: 0 auto;
-  padding: 16px 30px;
+  padding: 16px 0;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -10,10 +10,11 @@
   box-sizing: border-box;
   z-index: 200;
   position: relative;
+  /* position: fixed; */
 }
 
 .header__logo {
-  width: 35px;
+  width: max;
   height: 42px;
 }
 

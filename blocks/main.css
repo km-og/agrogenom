@@ -32,6 +32,7 @@
   font-weight: 300;
   line-height: 1.5;
   width: 90%;
+  max-width: 1140px;
   box-sizing: border-box;
   /* background-color: #2a2c2f; */
 }
@@ -46,6 +47,7 @@
   font-weight: 300;
   line-height: 1.5;
   width: 90%;
+  max-width: 1140px;
   box-sizing: border-box;
 }
 
